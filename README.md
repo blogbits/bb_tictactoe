@@ -1,10 +1,10 @@
 
-# Implemention of Tic Tac Toe using React
+# Tic Tac Toe with React
 
-Code was first based the React tutorial https://reactjs.org/tutorial/tutorial.html#what-were-building.  Has been extended to allow the following:  
+The implemenation was first based on a [React tutorial](https://reactjs.org/tutorial/tutorial.html#what-were-building) and has been extended to:  
 
-- Allows you to play a game with the computer.
-- At the end of each game will reset 
+- Allow you to play a game with the computer.
+- At the end of each game it will reset automatically
 - Can select if you wish to play as X or O.
 
 ### To install
